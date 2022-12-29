@@ -1,0 +1,1 @@
+If the i/p is ordinal encoded type and the o/p is also categorical,then we use Label encoding,else if the o/p is not categorical we use ordinal encoding.(done by sklearn)
